@@ -1,0 +1,27 @@
+{
+  "name": "conFusion",
+  "description": "Website for conFusion restaurant",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "conFusion",
+    "Fusion",
+    "restaurant"
+  ],
+  "authors": [
+    "Fergus Emmett"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "bootstrap": "~3.3.5"
+  }
+}
